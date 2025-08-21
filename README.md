@@ -63,7 +63,7 @@ Esse projeto foi feito para treinar:
 
 ## ▶️ Como executar
 1. Instale o **Python** atualizado na sua máquina.  
-2. Baixe o arquivo `adivinhe.py`.  
+2. Baixe o arquivo `desafio.py`.  
 3. No terminal, rode:  
    ```python
-   python adivinhe.py
+   python desafio.py
