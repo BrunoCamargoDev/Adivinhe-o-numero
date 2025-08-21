@@ -47,7 +47,7 @@ Você perdeu, o número era 57
 
 ## 🛠️ Tecnologias utilizadas
 
-- **Python 3**
+- **Python**
 - Módulo **random** (para gerar o número aleatório)
 
 ---
@@ -62,7 +62,7 @@ Esse projeto foi feito para treinar:
 ---
 
 ## ▶️ Como executar
-1. Instale o **Python 3** na sua máquina.  
+1. Instale o **Python** atualizado na sua máquina.  
 2. Baixe o arquivo `adivinhe.py`.  
 3. No terminal, rode:  
    ```python
